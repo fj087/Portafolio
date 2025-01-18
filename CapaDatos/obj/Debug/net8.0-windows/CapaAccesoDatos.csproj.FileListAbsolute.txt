@@ -1,0 +1,15 @@
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\bin\Debug\net8.0-windows\CapaAccesoDatos.deps.json
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\bin\Debug\net8.0-windows\CapaAccesoDatos.dll
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\bin\Debug\net8.0-windows\CapaAccesoDatos.pdb
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\bin\Debug\net8.0-windows\CapaEntidades.dll
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\bin\Debug\net8.0-windows\CapaEntidades.pdb
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\obj\Debug\net8.0-windows\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\obj\Debug\net8.0-windows\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\obj\Debug\net8.0-windows\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\obj\Debug\net8.0-windows\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\obj\Debug\net8.0-windows\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\obj\Debug\net8.0-windows\CapaAcce.1AD5E18C.Up2Date
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\obj\Debug\net8.0-windows\CapaAccesoDatos.dll
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\obj\Debug\net8.0-windows\refint\CapaAccesoDatos.dll
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\obj\Debug\net8.0-windows\CapaAccesoDatos.pdb
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaDatos\obj\Debug\net8.0-windows\ref\CapaAccesoDatos.dll

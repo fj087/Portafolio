@@ -1,0 +1,11 @@
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\bin\Release\net8.0-windows\CapaEntidades.deps.json
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\bin\Release\net8.0-windows\CapaEntidades.dll
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\bin\Release\net8.0-windows\CapaEntidades.pdb
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\obj\Release\net8.0-windows\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\obj\Release\net8.0-windows\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\obj\Release\net8.0-windows\CapaEntidades.AssemblyInfo.cs
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\obj\Release\net8.0-windows\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\obj\Release\net8.0-windows\CapaEntidades.dll
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\obj\Release\net8.0-windows\refint\CapaEntidades.dll
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\obj\Release\net8.0-windows\CapaEntidades.pdb
+C:\Users\mayra\OneDrive\Escritorio\C#\CapaEntidades\obj\Release\net8.0-windows\ref\CapaEntidades.dll
